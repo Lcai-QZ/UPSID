@@ -1,2 +1,2 @@
 # UDRD-Net
-This is an implementation of Multi-scale Attentive Image De-raining Networks via Neural Architecture Search
+This is an implementation of Uncertainty Driven Recurrent Dense Network for Progressive Single Image Rain/Snow Removal
